@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011888935288",
+    "project_id": "indomar-turki",
+    "storage_bucket": "indomar-turki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011888935288:android:83aff573daf9858dfbb88d",
+        "android_client_info": {
+          "package_name": "com.indomarturki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011888935288-2ah111sje2gepeg2bscvmb754q5bj6le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxpI5LRES5O4Jv78-iRNeA6plyqSdpiQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011888935288-2ah111sje2gepeg2bscvmb754q5bj6le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
